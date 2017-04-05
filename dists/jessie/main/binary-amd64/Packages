@@ -1,3 +1,44 @@
+Package: python-swiftclient-kerberos
+Version: 3.3.0-1+dex1
+Architecture: all
+Maintainer: Pavel Vondruska <vondruska@cesnet.cz>
+Installed-Size: 6832
+Depends: python | python2.7 | python3
+Replaces: swift (<< 1.6.0)
+Conflicts: python-swiftclient, python3-swiftclient
+Homepage: https://github.com/openstack/python-swiftclient
+Priority: extra
+Section: python
+Filename: pool/main/p/python-swiftclient-kerberos/python-swiftclient-kerberos_3.3.0-1+dex1_all.deb
+Size: 1170376
+SHA256: 7db641b32846ec7afe5cec3fee392429880a47c93392c4cb1a13c59a493a9d24
+SHA1: cbdca5ab1a7c73b85de3655e29be742d6677974c
+MD5sum: 7a19ce39e011345e8971c705d6dfa56b
+Description: Client library for Openstack Swift API
+ OpenStack Object Storage (code-named Swift) creates redundant, scalable object
+ storage using clusters of standardized servers to store petabytes of
+ accessible data. It is not a file system or real-time data storage system, but
+ rather a long-term storage system for a more permanent type of static data
+ that can be retrieved, leveraged, and then updated if necessary. Primary
+ examples of data that best fit this type of storage model are virtual machine
+ images, photo storage, email storage and backup archiving. Having no central
+ "brain" or master point of control provides greater scalability, redundancy
+ and permanence.
+ .
+ Objects are written to multiple hardware devices in the data center, with
+ the OpenStack software responsible for ensuring data replication and
+ integrity across the cluster. Storage clusters can scale horizontally by
+ adding new nodes. Should a node fail, OpenStack works to replicate its
+ content from other active nodes. Because OpenStack uses software logic to
+ ensure data replication and distribution across different devices,
+ inexpensive commodity hard drives and servers can be used in lieu of more
+ expensive equipment.
+ .
+ This package provides a client for the OpenStack Swift API. There's a Python
+ API  (the "swiftclient" module), and a command-line script ("swift").
+ .
+ This package contains patch for Kerberos authentication.
+
 Package: singularity-container
 Source: singularity
 Version: 2.2-1
