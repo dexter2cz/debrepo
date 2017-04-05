@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jessie
+Date: Wed, 05 Apr 2017 11:03:32 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ fc1ada98a953d3c277277eb088a2331e 1138 main/binary-amd64/Packages
+ 614b2994e40dcdc586dc8a8ddcf034a1 674 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 8d69b53a0ed4f66c8aa7d5101fdac498cffc64c3 1138 main/binary-amd64/Packages
+ 8c794e3bd86912ebe58fc51a2dafc60cd1bfb29f 674 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 1715e4f8814c1eb76ce9103cea22c8a099be05e2737a292ea7a1f0a54e6359e5 1138 main/binary-amd64/Packages
+ 492b39a1e058f15709d2a9a8e5642f3bfcd3f3fc8af44ec3635b4b532e4492df 674 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJY5M8MAAoJEAJf+Fc3Y3zLMR8P/RXw9vm5OME6dJp0Z6x8Ni1k
+q7qprt/wkgT8hCU7IQxYB0066nFBCEP7Uj+Ladyr+WPqCUNzi1ZIzuqq0xTmFZ+d
+u8/Ep+DXu8FYr4zMl1QkWy5sPbM4o/Qhjy5HgFESb6uOj/new6XaaclIh9UStqhF
+ucU+TxMiCG6NOGIysTdQubbO/qWc6ra9dUdar0sSnIE6sSoTxkAib/yJ7Ju0Fda5
+xwadqQKwkSflYQZzbiiuSWxVwcydHZoufb08fP3bG/03/GnyjJiBaH0FfXvlDo2p
+ZxtlYelBnPbSF8gsnWQwXSmlDLoeUVMXzvVC7ZUAgsyzB3aKuxNlkDQWHbAzSP6B
+KZKE7nHODMIZInjWsJcthKBbXYQyBMChrttirU/Mv9xgIslxIzI0ObdL5Fox+oNP
+WVEOcQFWZBIFJW1vSO+H1aQdCPsOINuAHXS8oIHWAeL/5CtvBPRuYNFM3qx3l2cc
+laEi0KJShtD62fVg3T26Vq/LYt6jgV0XmbTAZMRVyuJUD4xTIf4DwtaW49/prjvL
+vcHPe9gXo0g2UJ00R9sLOMxPh/IsHecnUxiVJCTk/gPQ9FfkSidC6PghaGmQDuSP
+3+2+6CEyV8eO2mO6ucU8Mzt0IHqPWwwfYbwQYfAK0c0L5NaGcD+xVzTnIUsNn7LC
+HzPSX8KANBkqD0hZQzdA
+=9r/6
+-----END PGP SIGNATURE-----
